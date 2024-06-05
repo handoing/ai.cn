@@ -1,2 +1,2 @@
-# ai.cn
-ai.cn for bussin Web X
+# ai.lol
+ai.lol for bussin Web X
